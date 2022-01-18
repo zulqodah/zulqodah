@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zulqodah
 - 👀 I’m interested in Android app developer so web developing with wordpress or CI framework is my privilage.  
-- 🌱 I’m currently learning HTML CSS JavaScript PHP Python & dart languages.
+- 🌱 I’m currently learning HTML CSS JavaScript PHP Python & Dart languages.
 - 💞️ I’m looking for collaborate on Android App developer
 - 📫 How to reach me zulfanzulqodah@gmail.com
 
