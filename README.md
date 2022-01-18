@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zulqodah
-- 👀 I’m interested in Android app web app developing
-- 🌱 I’m currently learning HTML CSS JavaScript PHP & Python.
-- 💞️ I’m looking to collaborate on Android App developer
-- 📫 How to reach me zulfantio@gmail.com
+- 👀 I’m interested in Android app developer so web developing with wordpress or CI framework is my privilage.  
+- 🌱 I’m currently learning HTML CSS JavaScript PHP Python & dart languages.
+- 💞️ I’m looking for collaborate on Android App developer
+- 📫 How to reach me zulfanzulqodah@gmail.com
 
 <!---
 zulqodah/zulqodah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
